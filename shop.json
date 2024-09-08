@@ -1,4 +1,14 @@
 {
-  "Featured": [];
-  "Secondary": [];
+  "Featured": [
+    {
+      "id": "CID_001_Athena_Commando_F_Default",
+      "price": 1337
+    }
+  ],
+  "Secondary": [
+    {
+      "id": "CID_001_Athena_Commando_F_Default",
+      "price": 1337
+    }
+  ]
 }
