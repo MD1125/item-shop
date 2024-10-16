@@ -13,3 +13,5 @@
 
 ### This might help you.
 - https://docs.google.com/spreadsheets/d/1gVDgnzNyMCafIWa-dBO3mgNUHmHzgA9O5sWbfQy2Yfg
+
+### Aufgeladen stinkt btw.
